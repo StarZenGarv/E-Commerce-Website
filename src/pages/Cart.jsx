@@ -17,7 +17,7 @@ const Cart = ({ cart, setCart }) => {
 
     // Simulate checkout
     setTimeout(() => {
-      toast.success("✅ Purchase successful! Thank you!", {
+      toast.success("✅ Purchase successful! AAPKE GHAR PAR DELIVER HO JAYEGA!!", {
         position: "top-center",
         autoClose: 2000,
         hideProgressBar: false,
